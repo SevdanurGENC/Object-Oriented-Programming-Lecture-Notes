@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-OOP-Examples\CSharp-OOP-Examples\bin\Debug\CSharp-OOP-Examples.exe.config
+C:\Users\Nano\source\repos\CSharp-OOP-Examples\CSharp-OOP-Examples\bin\Debug\CSharp-OOP-Examples.exe
+C:\Users\Nano\source\repos\CSharp-OOP-Examples\CSharp-OOP-Examples\bin\Debug\CSharp-OOP-Examples.pdb
+C:\Users\Nano\source\repos\CSharp-OOP-Examples\CSharp-OOP-Examples\obj\Debug\CSharp-OOP-Examples.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-OOP-Examples\CSharp-OOP-Examples\obj\Debug\CSharp-OOP-Examples.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-OOP-Examples\CSharp-OOP-Examples\obj\Debug\CSharp-OOP-Examples.exe
+C:\Users\Nano\source\repos\CSharp-OOP-Examples\CSharp-OOP-Examples\obj\Debug\CSharp-OOP-Examples.pdb
