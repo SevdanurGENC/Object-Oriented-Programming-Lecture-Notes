@@ -42,39 +42,39 @@ namespace CSharp_OOP_Examples.Inheritance
             }
         }
 
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
 
-            Kalitim.Kedi k1 = new Kalitim.Kedi();
+        //    Kalitim.Kedi k1 = new Kalitim.Kedi();
 
-            k1.agirlik = 5;
-            k1.boy = 10;
-            k1.ozellikGoster();
-            k1.turu = "iskoc";
-            k1.turGoster();
+        //    k1.agirlik = 5;
+        //    k1.boy = 10;
+        //    k1.ozellikGoster();
+        //    k1.turu = "iskoc";
+        //    k1.turGoster();
 
-            Console.WriteLine("********************");
+        //    Console.WriteLine("********************");
 
-            Kalitim.Hayvan h1 = new Kalitim.Hayvan();
-            h1.agirlik = 10;
-            h1.boy = 20;
-            h1.ozellikGoster();
+        //    Kalitim.Hayvan h1 = new Kalitim.Hayvan();
+        //    h1.agirlik = 10;
+        //    h1.boy = 20;
+        //    h1.ozellikGoster();
 
-            Console.WriteLine("********************");
+        //    Console.WriteLine("********************");
 
-            Kalitim.Kedi k2 = new Kalitim.Kedi();
-            k2.ozellikGoster();
-            k2.turGoster();
+        //    Kalitim.Kedi k2 = new Kalitim.Kedi();
+        //    k2.ozellikGoster();
+        //    k2.turGoster();
 
-            Console.WriteLine("********************");
-            Kalitim.Hayvan h2 = new Kalitim.Hayvan();
-
-
-
-            Console.ReadKey();
+        //    Console.WriteLine("********************");
+        //    Kalitim.Hayvan h2 = new Kalitim.Hayvan();
 
 
-        }
+
+        //    Console.ReadKey();
+
+
+        //}
 
 
 

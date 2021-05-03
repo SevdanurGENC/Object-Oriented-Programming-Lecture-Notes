@@ -53,14 +53,14 @@ namespace CSharp_OOP_Examples.Encapsulation
             } 
         }
 
-        static void Main(string[] args)
-        {
-            Ogrenci yeni = new Ogrenci();
-            yeni.OgrenciAdSoyad = "Sevdanur GENC";
-            yeni.Bolum = "Bilgisayar Programciligi";
-            yeni.OgrenciNo = 777;
-            yeni.Yazdir();
-            Console.ReadKey();
-        }
+        //static void Main(string[] args)
+        //{
+        //    Ogrenci yeni = new Ogrenci();
+        //    yeni.OgrenciAdSoyad = "Sevdanur GENC";
+        //    yeni.Bolum = "Bilgisayar Programciligi";
+        //    yeni.OgrenciNo = 777;
+        //    yeni.Yazdir();
+        //    Console.ReadKey();
+        //}
     }
 }
